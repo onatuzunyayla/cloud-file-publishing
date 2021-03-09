@@ -1,0 +1,3 @@
+indirilecek
+client bunu goruyorsa
+dosya indirilmis demektir

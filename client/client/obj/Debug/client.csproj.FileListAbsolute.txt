@@ -1,0 +1,87 @@
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe.config
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Form1.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Properties.Resources.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.pdb
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.pdb
+C:\Users\Dragar\Desktop\socket_programming_examples\client\client\bin\Debug\client.exe.config
+C:\Users\Dragar\Desktop\socket_programming_examples\client\client\obj\Debug\client.exe
+C:\Users\Dragar\Desktop\socket_programming_examples\client\client\obj\Debug\client.pdb
+C:\Users\Dragar\Desktop\socket_programming_examples\client\client\bin\Debug\client.exe
+C:\Users\Dragar\Desktop\socket_programming_examples\client\client\bin\Debug\client.pdb
+C:\Users\Dragar\Desktop\socket_programming_examples\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Dragar\Desktop\socket_programming_examples\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Dragar\Desktop\socket_programming_examples\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\Dragar\Desktop\socket_programming_examples\client\client\obj\Debug\client.Form1.resources
+C:\Users\lenovo\Desktop\sdfjkhsdfk\client\client\bin\Debug\client.exe.config
+C:\Users\lenovo\Desktop\sdfjkhsdfk\client\client\bin\Debug\client.exe
+C:\Users\lenovo\Desktop\sdfjkhsdfk\client\client\bin\Debug\client.pdb
+C:\Users\lenovo\Desktop\sdfjkhsdfk\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\sdfjkhsdfk\client\client\obj\Debug\client.Form1.resources
+C:\Users\lenovo\Desktop\sdfjkhsdfk\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\lenovo\Desktop\sdfjkhsdfk\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\sdfjkhsdfk\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\sdfjkhsdfk\client\client\obj\Debug\client.exe
+C:\Users\lenovo\Desktop\sdfjkhsdfk\client\client\obj\Debug\client.pdb
+C:\Users\Dragar\Desktop\408p\client\client\bin\Debug\client.exe.config
+C:\Users\Dragar\Desktop\408p\client\client\obj\Debug\client.exe
+C:\Users\Dragar\Desktop\408p\client\client\obj\Debug\client.pdb
+C:\Users\Dragar\Desktop\408p\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Dragar\Desktop\408p\client\client\obj\Debug\client.Form1.resources
+C:\Users\Dragar\Desktop\408p\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Dragar\Desktop\408p\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\Dragar\Desktop\408p\client\client\bin\Debug\client.exe
+C:\Users\Dragar\Desktop\408p\client\client\bin\Debug\client.pdb
+C:\Users\lenovo\Desktop\408p\client\client\bin\Debug\client.exe.config
+C:\Users\lenovo\Desktop\408p\client\client\bin\Debug\client.exe
+C:\Users\lenovo\Desktop\408p\client\client\bin\Debug\client.pdb
+C:\Users\lenovo\Desktop\408p\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\408p\client\client\obj\Debug\client.Form1.resources
+C:\Users\lenovo\Desktop\408p\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\lenovo\Desktop\408p\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\408p\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\408p\client\client\obj\Debug\client.exe
+C:\Users\lenovo\Desktop\408p\client\client\obj\Debug\client.pdb
+C:\Users\lenovo\Desktop\23813_Uzunyayla_Onat_Step1\client\client\bin\Debug\client.exe.config
+C:\Users\lenovo\Desktop\23813_Uzunyayla_Onat_Step1\client\client\bin\Debug\client.exe
+C:\Users\lenovo\Desktop\23813_Uzunyayla_Onat_Step1\client\client\bin\Debug\client.pdb
+C:\Users\lenovo\Desktop\23813_Uzunyayla_Onat_Step1\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\23813_Uzunyayla_Onat_Step1\client\client\obj\Debug\client.Form1.resources
+C:\Users\lenovo\Desktop\23813_Uzunyayla_Onat_Step1\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\lenovo\Desktop\23813_Uzunyayla_Onat_Step1\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\23813_Uzunyayla_Onat_Step1\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\23813_Uzunyayla_Onat_Step1\client\client\obj\Debug\client.exe
+C:\Users\lenovo\Desktop\23813_Uzunyayla_Onat_Step1\client\client\obj\Debug\client.pdb
+C:\Users\Dragar\Desktop\client\client\bin\Debug\client.exe.config
+C:\Users\Dragar\Desktop\client\client\bin\Debug\client.exe
+C:\Users\Dragar\Desktop\client\client\bin\Debug\client.pdb
+C:\Users\Dragar\Desktop\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\Dragar\Desktop\client\client\obj\Debug\client.Form1.resources
+C:\Users\Dragar\Desktop\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Dragar\Desktop\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\Dragar\Desktop\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Dragar\Desktop\client\client\obj\Debug\client.exe
+C:\Users\Dragar\Desktop\client\client\obj\Debug\client.pdb
+C:\Users\lenovo\Desktop\project_last\client\client\bin\Debug\client.exe.config
+C:\Users\lenovo\Desktop\project_last\client\client\bin\Debug\client.exe
+C:\Users\lenovo\Desktop\project_last\client\client\bin\Debug\client.pdb
+C:\Users\lenovo\Desktop\project_last\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\project_last\client\client\obj\Debug\client.Form1.resources
+C:\Users\lenovo\Desktop\project_last\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\lenovo\Desktop\project_last\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\project_last\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\project_last\client\client\obj\Debug\client.exe
+C:\Users\lenovo\Desktop\project_last\client\client\obj\Debug\client.pdb
+C:\Users\lenovo\Desktop\aaaaaaaaaa\client\client\bin\Debug\client.exe.config
+C:\Users\lenovo\Desktop\aaaaaaaaaa\client\client\bin\Debug\client.exe
+C:\Users\lenovo\Desktop\aaaaaaaaaa\client\client\bin\Debug\client.pdb
+C:\Users\lenovo\Desktop\aaaaaaaaaa\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\aaaaaaaaaa\client\client\obj\Debug\client.Form1.resources
+C:\Users\lenovo\Desktop\aaaaaaaaaa\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\lenovo\Desktop\aaaaaaaaaa\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\aaaaaaaaaa\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\aaaaaaaaaa\client\client\obj\Debug\client.exe
+C:\Users\lenovo\Desktop\aaaaaaaaaa\client\client\obj\Debug\client.pdb
